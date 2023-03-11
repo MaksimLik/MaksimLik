@@ -26,6 +26,7 @@ conferences - GHOST Day 2023
 
 📫 You can reach me at:<br>
 - [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail" />](mailto:mlixoivanenko@gmail.com)
+
 - [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maksim-likhaivanenka/)
 
 <!--
