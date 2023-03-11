@@ -12,6 +12,7 @@ conferences - GHOST Day 2023
 🌱 I’m currently learning:
 - Kotlin
 - C++
+- JavaScript
 
 💻 Technologies that I use:
 - Java 
