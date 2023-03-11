@@ -1,8 +1,8 @@
 ### Hello everybody, I'm Max 👋
 
 ✨Currently, I'm looking for an internship opportunity to apply my academic knowledge and skills in a
-✨professional environment, work with industry professionals and get practical recommendations as I
-✨approach the end of my academic journey.
+professional environment, work with industry professionals and get practical recommendations as I
+approach the end of my academic journey.
 
 🔭 I’m Computer Science student from Poland
 - Poznan University of Technology
