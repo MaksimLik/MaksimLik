@@ -1,4 +1,4 @@
-### Hello everybody, I'm Max 👋
+### Hello everybody, I'm Maxim 👋
 
 ✨Currently, I'm looking for an internship opportunity to apply my academic knowledge and skills in a
 professional environment, work with industry professionals and get practical recommendations as I
