@@ -29,6 +29,10 @@ conferences - GHOST Day 2023
 
 - [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maksim-likhaivanenka/)
 
+🤔 My statistics: 
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=MaksimLik&show_icons=true&hide_border=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimLik&layout=compact&theme=dark&hide_border=true)
+
 <!--
 **MaksimLik/MaksimLik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
