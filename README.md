@@ -9,10 +9,6 @@ approach the end of my academic journey.
 - Member of the organizing committee of one of the largest AI
 conferences - GHOST Day 2023
 
-🌱 I’m currently learning:
-- Kotlin
-- C++
-- JavaScript
 
 💻 Technologies that I use:
 - Java 
@@ -20,9 +16,7 @@ conferences - GHOST Day 2023
 - SQL
 - MySQL | Oracle DB
 - HTML & CSS
-- JavaScript
 - Python
-- C++
 
 📫 You can reach me at:<br>
 - [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail" />](mailto:mlixoivanenko@gmail.com)
